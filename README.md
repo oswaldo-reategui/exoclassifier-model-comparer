@@ -24,7 +24,7 @@ To use this script, ensure you have the required Python version and libraries in
 
 ## How to Run
 
-python model_evaluation.py
+`python model_evaluation.py`
 
 This will print the average accuracy scores of the evaluated models to the console.
 
